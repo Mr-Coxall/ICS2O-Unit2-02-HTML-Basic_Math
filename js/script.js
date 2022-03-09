@@ -4,7 +4,10 @@
 // Created on: Sep 2020
 // This file contains the JS functions for index.html
 
-function doMathClicked () {
+/**
+ * Do basic math.
+ */
+function doMathClicked() {
   // this function does basic math
 
   document.getElementById('add-math').innerHTML = '6 + 5 = ' + (6 + 5)

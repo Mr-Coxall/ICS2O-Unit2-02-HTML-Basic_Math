@@ -44,11 +44,3 @@ a:hover,
 a:active {
   color: #f93;
 }
-
-div.footer {
-  font-size: 9pt;
-  font-style: italic;
-  line-height: 12pt;
-  text-align: center;
-  padding-top: 30pt;
-}

@@ -8,7 +8,6 @@
  * Do basic math.
  */
 function doMathClicked() {
-  // this function does basic math
 
   document.getElementById('add-math').innerHTML = '<p>6 + 5 = ' + (6 + 5) + '</p>'
   document.getElementById('subtract-math').innerHTML = '<p>7 - 3 =  ' + (7 - 3) + '</p>'
